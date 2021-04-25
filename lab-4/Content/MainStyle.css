@@ -1,0 +1,27 @@
+﻿.add-form, .main-form, .update-form, .delete-form {
+    width: fit-content;
+    padding: 15px;
+}
+
+.link-button {
+    padding: 1px 1.5px;
+    outline: medium none;
+    text-decoration: none;
+}
+
+.link-list {
+    margin-bottom: 15px;
+}
+
+.input-form {
+    margin-bottom: 15px;
+}
+
+.cancel-link {
+    text-decoration: none;
+    float: right;
+}
+
+    .cancel-link:hover {
+        text-decoration: underline;
+    }

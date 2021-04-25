@@ -1,0 +1,158 @@
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\lab-4.dll.config
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\lab-4.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\lab-4.pdb
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\csc.exe
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\csc.exe.config
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\csc.rsp
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\csi.exe
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\csi.exe.config
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\csi.rsp
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.AppContext.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Collections.Immutable.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Console.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.IO.Compression.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.IO.FileSystem.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.IO.Pipes.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Security.AccessControl.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Security.Claims.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.ValueTuple.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Xml.XPath.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\vbc.exe
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\vbc.exe.config
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\vbc.rsp
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\VBCSCompiler.exe
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\roslyn\VBCSCompiler.exe.config
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\EntityFramework.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\EntityFramework.SqlServer.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\Microsoft.Web.Infrastructure.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Helpers.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Mvc.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Razor.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Webpages.Deployment.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Webpages.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Webpages.Razor.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\EntityFramework.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\EntityFramework.SqlServer.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Razor.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Webpages.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Webpages.Deployment.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Webpages.Razor.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Helpers.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\System.Web.Mvc.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\ru\System.Web.Razor.resources.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\ru\System.Web.Webpages.resources.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\ru\System.Web.Helpers.resources.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\bin\ru\System.Web.Mvc.resources.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\obj\Debug\lab-4.csprojAssemblyReference.cache
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\obj\Debug\lab-4.csproj.CoreCompileInputs.cache
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\obj\Debug\lab-4.csproj.CopyComplete
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\obj\Debug\lab-4.dll
+D:\Универ\3_2\Подарок\asp.net-labs-master\lab-4\lab-4\obj\Debug\lab-4.pdb
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\lab-4.dll.config
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\lab-4.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\lab-4.pdb
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\csc.exe
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\csc.exe.config
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\csc.rsp
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\csi.exe
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\csi.exe.config
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\csi.rsp
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.AppContext.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Collections.Immutable.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Console.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.IO.Compression.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.IO.FileSystem.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.IO.Pipes.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Security.AccessControl.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Security.Claims.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.ValueTuple.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Xml.XPath.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\vbc.exe
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\vbc.exe.config
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\vbc.rsp
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\VBCSCompiler.exe
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\roslyn\VBCSCompiler.exe.config
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\EntityFramework.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\EntityFramework.SqlServer.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\Microsoft.Web.Infrastructure.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Helpers.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Mvc.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Razor.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Webpages.Deployment.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Webpages.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Webpages.Razor.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\EntityFramework.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\EntityFramework.SqlServer.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Razor.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Webpages.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Webpages.Deployment.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Webpages.Razor.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Helpers.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\System.Web.Mvc.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\ru\System.Web.Razor.resources.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\ru\System.Web.Webpages.resources.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\ru\System.Web.Helpers.resources.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\bin\ru\System.Web.Mvc.resources.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\obj\Debug\lab-4.csprojAssemblyReference.cache
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\obj\Debug\lab-4.csproj.CoreCompileInputs.cache
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\obj\Debug\lab-4.csproj.CopyComplete
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\obj\Debug\lab-4.dll
+D:\Универ\3_2\Интернет сервера\lab-4\lab-4\obj\Debug\lab-4.pdb
